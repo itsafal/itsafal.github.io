@@ -21,4 +21,10 @@ npm run build
 
 The build checks local links, unfinished placeholders, and employer anonymity, then copies only public assets into `dist/` for any static host.
 
-The GitHub repository is private. The finished website is intended to be public.
+## Publishing
+
+Live site: https://itsafal.github.io/
+
+The website is hosted on GitHub Pages. Changes pushed to `main` build and deploy automatically through `.github/workflows/pages.yml`. The workflow can also be run manually from the repository's Actions tab.
+
+The repository is public so GitHub Pages can run on the free plan. Only the files in `dist/` are uploaded to the Pages deployment. No hosting subscription or paid domain is required.
