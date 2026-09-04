@@ -6,7 +6,7 @@ A minimal personal website. Plain HTML and CSS, no client-side JavaScript, track
 
 - `index.html`: content, links, and metadata.
 - `style.css`: desktop, mobile, and print layout.
-- `assets/portrait.png`: avatar from the owner's GitHub profile.
+- `assets/portrait.png`: profile photo supplied by the owner.
 
 Keep the current employer anonymous as **Stealth startup** throughout the site.
 
